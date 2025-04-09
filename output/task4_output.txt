@@ -1,0 +1,17 @@
+===== Cross-Validation Model Comparison =====
+
+Tuning LogisticRegression...
+LogisticRegression Best Model Accuracy (AUC): 0.75
+Best Params for LogisticRegression: regParam=0.0, maxIter=100
+
+Tuning DecisionTree...
+DecisionTree Best Model Accuracy (AUC): 0.73
+Best Params for DecisionTree: maxDepth=5
+
+Tuning RandomForest...
+RandomForest Best Model Accuracy (AUC): 0.76
+Best Params for RandomForest: maxDepth=5, numTrees=20
+
+Tuning GBT...
+GBT Best Model Accuracy (AUC): 0.76
+Best Params for GBT: maxDepth=5, maxIter=20

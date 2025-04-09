@@ -1,0 +1,2 @@
+===== Logistic Regression AUC =====
+AUC: 0.7500
